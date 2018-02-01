@@ -1,2 +1,2 @@
-# Static-Analysis-of-Android-Apps
-A repository of peer-reviewed publications in the field of static analysis of Android apps
+# Testing-Android-Apps
+A repository of peer-reviewed publications in the field of testing Android apps
